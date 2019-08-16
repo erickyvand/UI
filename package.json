@@ -1,0 +1,22 @@
+{
+  "name": "freementors",
+  "version": "1.0.0",
+  "description": "Free Mentors Web Application",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d UI"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickyvand/freeMentors.git"
+  },
+  "author": "Ericky Vand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickyvand/freeMentors/issues"
+  },
+  "homepage": "https://erickyvand.github.io/freeMentors",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
